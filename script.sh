@@ -1,4 +1,4 @@
 echo "This is my first jenkins script"
 date 
-calc
+cal
 echo "thank you"
